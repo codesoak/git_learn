@@ -1,2 +1,2 @@
 let num = 25
-let num2 = 59
+let num2 = 65
